@@ -1,1 +1,3 @@
+# Copy the following line in your .bashrc:
+
 export PS1="[\[$(tput sgr0)\]\[\033[38;5;242m\]\W\[$(tput sgr0)\]][:\[$(tput sgr0)\]\[\033[38;5;10m\]\$?\[$(tput sgr0)\]] \[$(tput sgr0)\]"
